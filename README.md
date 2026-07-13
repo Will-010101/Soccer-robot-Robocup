@@ -20,11 +20,11 @@ This robot was engineered and developed for participation in the Iran Open RoboC
 The project involved designing a complete robotic control system, integrating sensors and actuators, and implementing real-time algorithms for autonomous robot operation.
 
 <p align="center">
-<img src="certificates/photo_1.jpg" width="700" alt="RoboCup 2021 Certificate">
+<img src="certificates/photo_2.jpg" width="700" alt="RoboCup 2021 Certificate">
 </p>
 
 <p align="center">
-<img src="certificates/photo_2.jpg" width="700" alt="Iran Open RoboCup 2021 Certificate">
+<img src="certificates/photo_1.jpg" width="700" alt="Iran Open RoboCup 2021 Certificate">
 </p>
 
 ---
